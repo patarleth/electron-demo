@@ -1,5 +1,13 @@
 # electron demo 
 
+A very simple barebones app 
+
+#### if you want something a little more advanced checkout -
+
+https://github.com/lansana/ng2-golang-electron
+
+electron app with a golang process
+
 ### quick-start tutorial
 
 https://electronjs.org/docs/tutorial/quick-start
